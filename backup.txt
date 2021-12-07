@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bhuvaneshwor Traders</title>
+
+
+    <!-- Loading styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css" />
+    <link rel="stylesheet" href="./css/style.css">
+
+    <!-- Loading fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <div class="container-full clear-fix">
+            <img src="./images/compressed/image1.png" alt="">
+            <img src="./images/compressed/image2.png" alt="">
+            <img src="./images/compressed/image3.png" alt="">
+            <img src="./images/compressed/image4.png" alt="">
+        </div>
+    </header>
+
+    <nav>
+        <div class="center clear-fix  color-bg-op-purple">
+            <div class="logo color-bg-op-purple">
+                <a href="#">
+                    <img src="./images/compressed/logo.png" alt="">
+                </a>
+            </div>
+
+            <!-- <div class="menu">
+                    <a href="#">Home.</a>
+                    <a href="#">Import Purchase.</a>
+                    <a href="#">Export Sale.</a>
+                    <a href="#">Feedback.</a>
+            </div> -->
+
+            <ul class="menu">
+                <li><a href="#">Home.</a></li>
+                <li class="active"><a href="#">Import Purchase.</a></li>
+                <li><a href="#">Export Sale.</a></li>
+                <li><a href="#">Feedback.</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <section class="main import">
+        <div class="center clear-fix">
+            <div class="col-left w-600px">
+                <div class="content">
+                    <h1 class="color-text-primary">
+                        <ins>Ginger</ins>. <ins> Garlic</ins>. <ins>Apple</ins>. <ins> Onion</ins>.
+                    </h1>
+
+                    <h2><ins>Purchase</ins>. <ins>Storage</ins>. <ins>Processing</ins>.
+                        <ins>Import</ins>. <ins>Export</ins>.</h2>
+
+                    <p class="margin-top border-bottom">
+                        From last 20 years,<b class="color-text-primary">Bhuvaneshwor Traders </b> is one of the largest
+                        companies in Nepal, involved in
+                        Agricultural Products Business that includes <b class="color-text-primary">Ginger </b>, <b
+                            class="color-text-primary">Garlic </b>, <b class="color-text-primary">Apple </b> and <b
+                            class="color-text-primary">Onion </b> .
+                        <br>
+                        All the international firms we are dealing are one of the largest in their respective countries.
+                        Thus, everything we buy/sell or import/export are the best quality products with all their
+                        available varieties. And we assure, no one ever has to suffer from shortage as we are always
+                        able to fulfill requirement of any quantity.
+                    </p>
+                </div>
+                <div class="import-purchase content margin-top">
+                    <h1 class="color-text-primary">
+                        <ins>Import</ins>. <ins> Purchase</ins>.
+                    </h1>
+
+                    <div class="contain clear-fix">
+                        <div class="col-left">
+                            <div>
+                                <h3>
+                                    <ins>China</ins>.
+                                </h3>
+                                <p class="w-261px">
+                                    Our primary market for importing all available varieties of <b class="color-text-primary">Ginger </b>, <b
+                                    class="color-text-primary">Garlic </b>, <b class="color-text-primary">Apple </b> and <b
+                                    class="color-text-primary">Onion </b>
+                                </p>
+                            </div>
+
+                            <div>
+                                <h3>
+                                    <ins>Thailand</ins>. <ins>Myanmar</ins>. <br> <ins>Bhutan</ins>.
+                                </h3>
+                                <p class="w-261px">
+                                        <b class="color-text-primary">Ginger </b> is the only product which is being imported from these neighbour countries.
+                                </p>
+                            </div>
+
+                        </div>
+
+                        <div class="col-right ">
+                            <div>
+                                <h3>
+                                    <ins>Nepal</ins>. <br>
+                                    <ins>Local Market</ins>.
+                                </h3>
+                                <p class="w-266px">
+                                    We help local growers find the proper market for the best value of their products.
+                                    We collect <b class="color-text-primary">Ginger </b> and <b class="color-text-primary">Garlic </b> from them in Nepal which are, by then, supplied locally
+                                    and exported in international markets.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-right mt-30 w-320px">
+                <div class="gallery">
+                    <h4>
+                        <ins>Products</ins>. <br>
+                        <ins>gallery</ins>.
+                    </h4>
+                    <div class="image">
+                        <img src="./images/compressed/image1.png" alt="">
+                        <img src="./images/compressed/image2.png" alt="">
+                        <img src="./images/compressed/image3.png" alt="">
+                        <img src="./images/compressed/image4.png" alt="">
+                    </div>
+                </div>
+                <!-- End of gallery -->
+
+                <div class="contact import-contact mt-30">
+                        <h3>Contact.</h3>
+                        <table>
+                            <tr>
+                                <th>Address</th>
+                                <td>Kuleshwor, Kathmandu, Nepal</td>
+                            </tr>
+    
+                            <tr>
+                                <th>Phone
+                                    Fax
+                                    Mobile
+                                </th>
+                                <td>
+                                    + 977 1 4271397 (O) <br>
+                                    + 977 1 4672314 (H)  <br>
+                                    + 977 9851091551
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>E-mail:
+                                    <br>
+                                    Website:
+                                </th>
+    
+                                <td>
+                                    <a href="#">info@bhuvaneshwor.com</a>
+                                    <br>
+                                    <a href="#">www.bhuvaneshwor.com</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div> 
+                    <!-- End of table -->
+
+                    <div class="form">
+                        
+                    </div>
+            </div>
+
+        </div>
+    </section>
+
+
+    <nav class="footer-menu">
+        <div class="center color-bg-yellow clear-fix">
+            <div class="logo color-bg-yellow">
+                <a href="#">
+                    <img src="./images/compressed/logo.png" alt="">
+                </a>
+            </div>
+
+            <ul class="menu">
+                <li class="active"><a href="#">Home.</a></li>
+                <li><a href="#">Import Purchase.</a></li>
+                <li><a href="#">Export Sale.</a></li>
+                <li><a href="#">Feedback.</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <footer>
+        <div class="center">
+
+            <span>
+                <h5>Website Design
+                    Development & Contents</h5>
+                <img src="" alt="">
+            </span>
+        </div>
+    </footer>
+
+    <!-- JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
