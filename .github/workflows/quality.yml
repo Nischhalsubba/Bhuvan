@@ -1,0 +1,21 @@
+name: Validate legacy site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate PHP syntax
+        run: find site -name '*.php' -print0 | xargs -0 -r -n1 php -l
+      - name: Verify site entry points
+        run: test -f site/index.html && test -f site/index.php
